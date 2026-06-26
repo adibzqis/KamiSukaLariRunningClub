@@ -76,7 +76,7 @@ export default function AchievementsPage() {
             PERFORMANCE <span className="text-red-600">ARCHIVES</span>
           </h1>
           <p className="text-slate-400 mt-2 max-w-xl text-xs md:text-base leading-relaxed">
-            The fastest race performance for each distance and category. Only finishing times from official races are eligible.
+            The fastest race performance for each distance and category. Only finishing times from official races are eligible excluding 5KM and 10KM.
           </p>
         </div>
 

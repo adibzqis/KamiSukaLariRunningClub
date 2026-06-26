@@ -130,6 +130,14 @@ export default function HomePage() {
 
           </div>
 
+          {/* PORTAL LOGIN BUTTON */}
+          <a 
+            href="/portal" 
+            className="border border-slate-200 text-slate-700 px-3 py-2 md:px-4 md:py-2 text-[10px] md:text-xs font-bold uppercase tracking-widest hover:bg-slate-50 transition cursor-pointer"
+          >
+            Member Portal
+          </a>
+
           {/* Core Call to Action Button - Scales font and padding down on mobile */}
           <button 
             onClick={() => setIsOpen(true)} 
